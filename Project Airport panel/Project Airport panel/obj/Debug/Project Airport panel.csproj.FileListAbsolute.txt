@@ -1,0 +1,7 @@
+C:\Users\bogda\OneDrive\Рабочий стол\Project Airport panel\Project Airport panel\bin\Debug\Project Airport panel.exe.config
+C:\Users\bogda\OneDrive\Рабочий стол\Project Airport panel\Project Airport panel\bin\Debug\Project Airport panel.exe
+C:\Users\bogda\OneDrive\Рабочий стол\Project Airport panel\Project Airport panel\bin\Debug\Project Airport panel.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\Project Airport panel\Project Airport panel\obj\Debug\Project Airport panel.csprojAssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\Project Airport panel\Project Airport panel\obj\Debug\Project Airport panel.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\Project Airport panel\Project Airport panel\obj\Debug\Project Airport panel.exe
+C:\Users\bogda\OneDrive\Рабочий стол\Project Airport panel\Project Airport panel\obj\Debug\Project Airport panel.pdb
